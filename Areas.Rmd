@@ -22,3 +22,11 @@ Lado <- 3
 AreaCuadrado <- Lado^2
 ```
 
+#Área triángulo
+
+```{r}
+b <- 8
+h <- 6
+AreaTriangulo <- (b*h)/2
+```
+
